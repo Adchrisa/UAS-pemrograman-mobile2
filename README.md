@@ -1,18 +1,5 @@
 # 🌱 EcoHelper – Your Daily Environmental Companion
 
-<div align="center">
-  
-	![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-	![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  
-	**Aplikasi Mobile untuk Meningkatkan Kesadaran Lingkungan**
-  
-	[Fitur](#-fitur-utama) • [Tech Stack](#-tech-stack) • [Instalasi](#-instalasi) • [Demo](#-demo-aplikasi)
-  
-</div>
-
----
-
 ## 📖 Tentang Proyek
 
 **EcoHelper** adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu meningkatkan kesadaran masyarakat terhadap isu lingkungan melalui edukasi, tips ramah lingkungan, dan habit tracking yang mudah dipraktikkan dalam kehidupan sehari-hari.
