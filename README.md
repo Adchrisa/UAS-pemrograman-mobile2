@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Latar Belakang & Motivasi
+## Latar Belakang & Motivasi
 
 Permasalahan lingkungan seperti **sampah plastik**, **pemborosan energi**, dan **krisis air bersih** sering kali terjadi bukan karena kurangnya teknologi, tetapi karena:
 
@@ -15,7 +15,7 @@ Permasalahan lingkungan seperti **sampah plastik**, **pemborosan energi**, dan *
 - ❌ Tidak adanya motivasi untuk memulai kebiasaan baik
 - ❌ Sulit untuk konsisten menjalankan aksi ramah lingkungan
 
-### 💡 Solusi: EcoHelper
+### Solusi: EcoHelper
 
 **EcoHelper** hadir sebagai solusi digital yang:
 
@@ -28,13 +28,13 @@ Permasalahan lingkungan seperti **sampah plastik**, **pemborosan energi**, dan *
 
 ## ✨ Fitur Utama
 
-### 🏠 **Home Dashboard**
+### **Home Dashboard**
 - Tampilan overview aplikasi yang clean dan modern dengan desain eco-themed
 - Quick action buttons untuk akses cepat ke fitur utama
 - Daily tips dan eco awareness highlights
 - Navigasi bottom navigation yang intuitif ke semua section
 
-### 📰 **Artikel Lingkungan (Articles)**
+### **Artikel Lingkungan (Articles)**
 - **Koleksi artikel edukasi** tentang isu lingkungan dari berbagai sumber
 - Dikelompokkan berdasarkan **kategori**: 
   - 🗑️ Sampah & Daur Ulang
@@ -48,7 +48,7 @@ Permasalahan lingkungan seperti **sampah plastik**, **pemborosan energi**, dan *
 - **Bookmark artikel favorit** untuk dibaca ulang
 - List view dengan infinite scroll
 
-### 🔥 **Eco Tracker (Habit Tracker)**
+### **Eco Tracker (Habit Tracker)**
 - Track kebiasaan ramah lingkungan harian:
   - 🚫 Tidak menggunakan plastik sekali pakai
   - 💧 Menghemat penggunaan air
@@ -63,43 +63,43 @@ Permasalahan lingkungan seperti **sampah plastik**, **pemborosan energi**, dan *
 - **Auto-reset harian** dengan penyimpanan history
 - Data tersimpan lokal menggunakan **Shared Preferences**
 
-### 💡 **Daily Eco Tips**
+### **Daily Eco Tips**
 - Tips harian yang terupdate untuk menjaga lingkungan
 - Notifikasi reminder untuk konsistensi kebiasaan
 - Kategori tips yang beragam dan praktis
 - Desain yang menarik dan mudah dipahami
 
-### 🏆 **Achievements**
+### **Achievements**
 - Sistem pencapaian yang memotivasi pengguna
 - Unlock badges melalui aktivitas ramah lingkungan
 - Tampilan progress menuju badge level selanjutnya
 - Leaderboard dan milestone tracking
 
-### 📊 **Impact Visualization**
+### **Impact Visualization**
 - Visualisasi dampak personal dari aksi ramah lingkungan
 - Carbon footprint calculator
 - Estimasi pengurangan limbah yang telah dicapai
 - Kontribusi terhadap kelestarian alam
 
-### 🧮 **Carbon Calculator**
+### **Carbon Calculator**
 - Kalkulator jejak karbon pribadi
 - Estimasi dampak lingkungan dari kebiasaan sehari-hari
 - Rekomendasi untuk mengurangi emisi karbon
 
-### 📌 **Bookmark**
+### **Bookmark**
 - Simpan artikel favorit untuk dibaca ulang
 - Organisasi bookmark yang rapi
 - Hapus bookmark dengan mudah
 - Persistent storage dengan **Shared Preferences**
 
-### 👤 **Profile & Settings**
+### **Profile & Settings**
 - Informasi profil pengguna
 - **Dark Mode Toggle** (tema gelap/terang)
 - Halaman **About EcoHelper** dengan informasi aplikasi
 - Pengaturan notifikasi
 - Logout functionality
 
-### 🔐 **Authentication**
+### **Authentication**
 - Login dan Register dengan Supabase
 - Email verification
 - Password reset
