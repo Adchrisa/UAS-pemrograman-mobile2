@@ -2,7 +2,7 @@
 
 ## 📖 Tentang Proyek
 
-**EcoHelper** adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu meningkatkan kesadaran masyarakat terhadap isu lingkungan melalui edukasi, tips ramah lingkungan, dan habit tracking yang mudah dipraktikkan dalam kehidupan sehari-hari.
+**EcoHelper** adalah aplikasi mobile berbasis Flutter untuk meningkatkan kesadaran lingkungan lewat artikel edukasi, tips ramah lingkungan, dan pelacakan kebiasaan hijau. Pengguna bisa baca artikel per kategori, simpan bookmark, lacak habit (hemat plastik, air, energi), dan mengelola tema/profil; data disimpan lokal (Shared Preferences) dan terintegrasi Supabase untuk backend/auth.
 
 ---
 
