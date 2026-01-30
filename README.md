@@ -107,6 +107,11 @@ Permasalahan lingkungan seperti **sampah plastik**, **pemborosan energi**, dan *
 
 ---
 
+### 📱 Screenshots
+1. Tampilan login
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/77c9d3af3474cd9e61cf0847e224fd4d2d5d652b/Screenshots/Screenshot_2026-01-30-10-43-40-97_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
+
 ## 🛠 Tech Stack
 
 ### **Frontend & Framework**
@@ -207,10 +212,6 @@ lib/
 ---
 
 ## 📱 Demo Aplikasi
-
-### Screenshot
-
-(Dokumentasi screenshot menyusul)
 
 ### 🎥 Video Demo
 
