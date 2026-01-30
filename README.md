@@ -107,6 +107,11 @@ Permasalahan lingkungan seperti **sampah plastik**, **pemborosan energi**, dan *
 
 ---
 
+### 📱 Demo aplikasi
+
+https://github.com/user-attachments/assets/a6918bad-c8b8-4b76-ac28-0f754755b9c0
+
+
 ### 📱 Screenshots
 1. Tampilan login
 
