@@ -1,5 +1,8 @@
 # 🌱 EcoHelper – Your Daily Environmental Companion
 
+## Link Hosting
+https://uas-pemmob2-albany.netlify.app/
+
 ## 📖 Tentang Proyek
 
 **EcoHelper** adalah aplikasi mobile berbasis Flutter untuk meningkatkan kesadaran lingkungan lewat artikel edukasi, tips ramah lingkungan, dan pelacakan kebiasaan hijau. Pengguna bisa baca artikel per kategori, simpan bookmark, lacak habit (hemat plastik, air, energi), dan mengelola tema/profil; data disimpan lokal (Shared Preferences) dan terintegrasi Supabase untuk backend/auth.
