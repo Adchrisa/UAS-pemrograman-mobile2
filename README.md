@@ -109,8 +109,44 @@ Permasalahan lingkungan seperti **sampah plastik**, **pemborosan energi**, dan *
 
 ### 📱 Screenshots
 1. Tampilan login
-![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/77c9d3af3474cd9e61cf0847e224fd4d2d5d652b/Screenshots/Screenshot_2026-01-30-10-43-40-97_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/1.PNG)
 
+2. Tampilan beranda
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/2.PNG)
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/3.PNG)
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/4.PNG)
+
+3. Kalkulator jejak karbon
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/5.PNG)
+
+4. Visualisasi Dampak (tracking)
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/6.PNG)
+
+5. Daily tips
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/7.PNG)
+
+6. Challenges
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/8.PNG)
+
+7. My Garden
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/9.PNG)
+
+8. Achievements (stats)
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/10.PNG)
+
+9. Achievements (badges)
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/11.PNG)
+
+10.  Achievements (leaderboard)
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/12.PNG)
+
+11. Profil
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/13.PNG)
+
+12. About
+![image alt](https://github.com/Adchrisa/UAS-pemrograman-mobile2/blob/45aece918d04faf637147acab5bde5d0da2c9ab5/screenshots/14.PNG)
+
+---
 
 ## 🛠 Tech Stack
 
